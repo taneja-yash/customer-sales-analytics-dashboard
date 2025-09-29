@@ -14,7 +14,7 @@ This project analyzes customer purchases and sales patterns to uncover actionabl
 
 - **Tableau** – Interactive dashboards and visualizations  
 - **CSV Files** – Raw customer and sales data  
-- **Excel ** – Ad hoc calculations and profiling
+- **Excel** – Ad hoc calculations and profiling
 
 
 ---
