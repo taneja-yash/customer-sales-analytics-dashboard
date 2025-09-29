@@ -22,7 +22,7 @@ This project analyzes customer purchases and sales patterns to uncover actionabl
 ## 🚀 How to Use
 
 1. Clone the repository.
-2. 2. Open the file in Tableau.
+2. Open the file in Tableau.
 3. Explore interactive views and filters to derive insights.
 
 ---
@@ -38,5 +38,4 @@ This project analyzes customer purchases and sales patterns to uncover actionabl
 ## 📬 Contact
 
 **Yash Taneja**  
-Data Analyst | MS Business Analytics – UT Dallas  
 [LinkedIn](https://www.linkedin.com/in/yash-taneja-07) 
